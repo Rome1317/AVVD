@@ -1,0 +1,36 @@
+C:\Users\edgar\Desktop\AAVD\AAVD\bin\Debug\AAVD.exe.config
+C:\Users\edgar\Desktop\AAVD\AAVD\bin\Debug\AAVD.exe
+C:\Users\edgar\Desktop\AAVD\AAVD\bin\Debug\AAVD.pdb
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.csprojAssemblyReference.cache
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.Properties.Resources.resources
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.csproj.GenerateResource.cache
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.exe
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.pdb
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.Escuelas.resources
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.Maestros.resources
+C:\Users\edgar\Desktop\AAVD\AAVD\obj\Debug\AAVD.Menu.resources
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\AAVD.exe.config
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\AAVD.exe
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\AAVD.pdb
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.csprojAssemblyReference.cache
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.Escuelas.resources
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.Maestros.resources
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.Menu.resources
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.Properties.Resources.resources
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.csproj.GenerateResource.cache
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.exe
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.pdb
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Cassandra.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\LZ4.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Cassandra.xml
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\GONZALEZ\Desktop\Parcial 3\AAVD\AAVD\obj\Debug\AAVD.csproj.CopyComplete
